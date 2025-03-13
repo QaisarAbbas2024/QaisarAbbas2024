@@ -19,11 +19,12 @@
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=QaisarAbbas2024&show_icons=true&locale=en&layout=demo&theme=merko&hide_border=true" />
 </p>
 
+<!---
 # Github Metrics
 <p align="center">
 	<img width="625em" src="https://github.com/QaisarAbbas2024/QaisarAbbas2024/blob/master/github-metrics.svg" />
 </p>
-<!---
+
 QaisarAbbas2024/QaisarAbbas2024 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
