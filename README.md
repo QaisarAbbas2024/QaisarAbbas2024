@@ -5,11 +5,11 @@
 - 📫 How to reach me: Email: qaisar701shan@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Learning Italian at Duolingo with 570 days streak.
-## 🤝🏻 &nbsp;Connect with Me
+## 🤝🏻 &nbsp;Connect with Me 📫
 
-<p align="center">
+<p align="left">
 <a href="https://linkedin.com/in/QaisarAbbas-2024"><img src="https://img.shields.io/badge/-Qaisar%20Abbas-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:qaisar701shan@gmail.com"><img src="https://img.shields.io/badge/-qaisar701@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:qaisar701shan@gmail.com"><img src="https://img.shields.io/badge/-qaisar701shan@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 
 <!---
 QaisarAbbas2024/QaisarAbbas2024 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
