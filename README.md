@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Python
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Learning Italian at Duolingo with 580 days streak.
-## 🤝🏻 &nbsp;Connect with Me 📫
+## 🤝🏻 &nbsp;Connect with Me
 
 <p align="left">
 <a href="https://linkedin.com/in/Qaisar-Abbas2024"><img src="https://img.shields.io/badge/-Qaisar%20Abbas-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
