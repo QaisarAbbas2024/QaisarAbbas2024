@@ -7,7 +7,7 @@
 ## 🤝🏻 &nbsp;Connect with Me 📫
 
 <p align="left">
-<a href="https://linkedin.com/in/QaisarAbbas-2024"><img src="https://img.shields.io/badge/-Qaisar%20Abbas-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://linkedin.com/in/Qaisar-Abbas2024"><img src="https://img.shields.io/badge/-Qaisar%20Abbas-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:qaisar701shan@gmail.com"><img src="https://img.shields.io/badge/-qaisar701shan@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 
 <!---
