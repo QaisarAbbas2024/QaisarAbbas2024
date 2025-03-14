@@ -1,3 +1,6 @@
+<h1 align="left">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&pause=1000&lines=I+am+Qaisar+Abbas;Science+&+Tech+Enthusiast;MS+Applied+Physics" 
+         alt="I am Qaisar Abbas  | Science & Tech Enthusiast | MS Applied Physics" />
 # 👋 Hi, I’m Qaisar Abbas
 - 👀 I’m interested in Python, CSS, HTML, JavaScript
 - 🌱 I’m currently learning Programming Languages
