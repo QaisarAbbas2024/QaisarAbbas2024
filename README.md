@@ -13,7 +13,7 @@
 <p align="center">
 <a href="https://linkedin.com/in/Qaisar-Abbas2024"><img src="https://img.shields.io/badge/-Qaisar%20Abbas-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:qaisar701shan@gmail.com"><img src="https://img.shields.io/badge/-Qaisar Abbas-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://https://sites.google.com/view/qaisar-abbas/home"><img src="https://img.shields.io/badge/-Web-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://sites.google.com/view/qaisar-abbas/home"><img src="https://img.shields.io/badge/-Qaisar Abbas-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 	
 <h2><b>⚙️ GitHub Analytics</b></h2>
 
