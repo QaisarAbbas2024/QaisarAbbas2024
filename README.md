@@ -9,7 +9,7 @@
 - 💞️ I’m looking to collaborate on Python Projects
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Learning Italian at Duolingo with 580 days streak.
- </h3>
+ 	</h3>
 ## 🤝🏻&nbsp;Connect with Me
 
 <p align="left">
