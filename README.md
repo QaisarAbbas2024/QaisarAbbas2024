@@ -25,8 +25,8 @@
 </p>
 
 ### ✍️ Dev World Insights
-<p align="center">
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+ 
 <!---
 # Github Metrics
 <p align="center">
