@@ -25,8 +25,12 @@
 </p>
 
 ### ✍️ Code Insights
+<h2 align="Center">
+	
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
- 
+
+ </h2>
+
 <!---
 # Github Metrics
 <p align="center">
