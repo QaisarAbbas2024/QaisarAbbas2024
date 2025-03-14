@@ -1,5 +1,5 @@
 <h2 align="Center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Arial&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&pause=1000&lines=I+am+Qaisar+Abbas;Science+and+Tech+Enthusiast;MS+Applied+Physics" 
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Times+New+Roman&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&pause=1000&lines=I+am+Qaisar+Abbas;Science+and+Tech+Enthusiast;MS+Applied+Physics" 
          alt="I am Qaisar Abbas  | Science and Tech Enthusiast | MS Applied Physics" />
 </h2>
 
