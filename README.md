@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Qaisar Abbas
 - 👀 I’m interested in Python, CSS, HTML, JavaScript
 - 🌱 I’m currently learning Programming Languages
-- 💞️ I’m looking to collaborate on Python
+- 💞️ I’m looking to collaborate on Python Projects
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Learning Italian at Duolingo with 580 days streak.
 ## 🤝🏻 &nbsp;Connect with Me
