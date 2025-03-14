@@ -3,6 +3,7 @@
          alt="I am Qaisar Abbas  | Science and Tech Enthusiast | MS Applied Physics" />
 </h2>
 
+## 👦🏽&nbsp;About Me
 - 👀 I’m interested in Python, CSS, HTML, JavaScript
 - 🌱 I’m currently learning Programming Languages
 - 💞️ I’m looking to collaborate on Python Projects
@@ -11,9 +12,9 @@
 ## 🤝🏻&nbsp;Connect with Me
 
 <p align="center">
-<a href="https://linkedin.com/in/Qaisar-Abbas2024"><img src="https://img.shields.io/badge/-Qaisar%20Abbas-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:qaisar701shan@gmail.com"><img src="https://img.shields.io/badge/-Qaisar Abbas-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://sites.google.com/view/qaisar-abbas/home"><img src="https://img.shields.io/badge/-Qaisar Abbas-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="mailto:qaisar701shan@gmail.com"><img src="https://img.shields.io/badge/-MAIL-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://linkedin.com/in/Qaisar-Abbas2024"><img src="https://img.shields.io/badge/-LINKEDIN-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 	
 <h2><b>⚙️ GitHub Analytics</b></h2>
 
