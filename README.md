@@ -24,6 +24,9 @@
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=QaisarAbbas2024&show_icons=true&locale=en&layout=demo&theme=merko&hide_border=true" />
 </p>
 
+### ✍️ Developer Insights
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 <!---
 # Github Metrics
 <p align="center">
