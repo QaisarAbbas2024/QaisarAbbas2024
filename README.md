@@ -9,8 +9,8 @@
 <p align="left">
 <a href="https://linkedin.com/in/Qaisar-Abbas2024"><img src="https://img.shields.io/badge/-Qaisar%20Abbas-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:qaisar701shan@gmail.com"><img src="https://img.shields.io/badge/-qaisar701shan@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-
-<h2><i>⚙️ GitHub Analytics</i></h2>
+[![Email](https://img.shields.io/badge/Email-4285F4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:qaisar701shan@gmail.com)
+<h2><b>⚙️ GitHub Analytics</b></h2>
 
 <p align="center">
 <a href="https://github.com/QaisarAbbas2024">
