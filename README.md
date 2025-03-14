@@ -3,13 +3,11 @@
          alt="I am Qaisar Abbas  | Science and Tech Enthusiast | MS Applied Physics" />
 </h1>
 
- <h3>
 - 👀 I’m interested in Python, CSS, HTML, JavaScript
 - 🌱 I’m currently learning Programming Languages
 - 💞️ I’m looking to collaborate on Python Projects
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Learning Italian at Duolingo with 580 days streak.
- 	</h3>
 ## 🤝🏻&nbsp;Connect with Me
 
 <p align="left">
