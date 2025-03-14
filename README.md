@@ -1,4 +1,3 @@
-[![committers.top badge](https://user-badge.committers.top/pakistan/QaisarAbbas2024.svg)](https://user-badge.committers.top/pakistan/QaisarAbbas2024)
 <h1 align="left">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&pause=1000&lines=I+am+Qaisar+Abbas;Science+and+Tech+Enthusiast;MS+Applied+Physics" 
          alt="I am Qaisar Abbas  | Science and Tech Enthusiast | MS Applied Physics" />
