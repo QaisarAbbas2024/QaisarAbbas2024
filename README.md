@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning Programming Languages
 - 💞️ I’m looking to collaborate on Python Projects
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Learning Italian at Duolingo with 580 days streak.
+- ⚡ Fun fact: Learning Italian at Duolingo App with 600 days streak.
 ## 🤝🏻&nbsp;Connect with Me
 
 <p align="center">
