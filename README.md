@@ -1,5 +1,5 @@
 <h2 align="Center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=278B0F&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&pause=1000&lines=I+am+Qaisar+Abbas;Science+and+Tech+Enthusiast;MS+Applied+Physics" 
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=278B0F&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&pause=1000&lines=I+am+Qaisar+Abbas;Science+and+Tech+Enthusiast;PhD+Aspirant" 
          alt="I am Qaisar Abbas  | Science and Tech Enthusiast | PhD Aspirant" />
 </h2>
 
@@ -40,7 +40,7 @@
 
 <p float="left">
  <a href="https://www.linkedin.com/feed/update/urn:li:activity:7315443978370203650/">
-     <img src="CS50x.jpg" width="390px" />
+     <img src="CS50x.jpg" width="300px" />
   </a>
 
 
