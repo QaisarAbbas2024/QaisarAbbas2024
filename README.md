@@ -37,7 +37,6 @@
 </p>
 
 # Completed International Competitions🥇:
-
 <p float="left">
  <a href="https://www.linkedin.com/feed/update/urn:li:activity:7315443978370203650/">
      <img src="CS50x.jpg" width="300px" />
