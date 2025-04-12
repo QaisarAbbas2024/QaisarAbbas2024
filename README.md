@@ -1,6 +1,6 @@
 <h2 align="Center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=278B0F&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&pause=1000&lines=I+am+Qaisar+Abbas;Science+and+Tech+Enthusiast;MS+Applied+Physics" 
-         alt="I am Qaisar Abbas  | Science and Tech Enthusiast | MS Applied Physics" />
+         alt="I am Qaisar Abbas  | Science and Tech Enthusiast | PhD Aspirant" />
 </h2>
 
 ## 👦🏽&nbsp;About Me
@@ -35,6 +35,15 @@
 <p align="center">
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FQaisarAbbas2024%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Visits&edge_flat=false"/></a>
 </p>
+
+# Completed International Competitions🥇:
+
+<p float="left">
+ <a href="https://www.linkedin.com/feed/update/urn:li:activity:7315443978370203650/">
+     <img src="CS50x.jpg" width="390px" />
+  </a>
+
+
 <!---
 # Github Metrics
 <p align="center">
