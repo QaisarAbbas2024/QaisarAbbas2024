@@ -4,8 +4,8 @@
 </h2>
 
 ## 👦🏽&nbsp;About Me
-- 👀 I’m interested in Python, CSS, HTML, JavaScript
-- 🌱 I’m currently learning Programming Languages
+- 👀 I’m interested in Python, DSA & LeetCode
+- 🌱 I’m currently learning Programming Skills
 - 💞️ I’m looking to collaborate on Python Projects
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Learning languages at Duolingo App with 600 days streak.
