@@ -1,6 +1,6 @@
 <h2 align="Center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=278B0F&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&pause=1000&lines=I+am+Qaisar+Abbas;Science+and+Tech+Enthusiast;PhD+Aspirant" 
-         alt="I am Qaisar Abbas  | Science and Tech Enthusiast | PhD Aspirant" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=278B0F&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&pause=1000&lines=I+am+Qaisar+Abbas;Science+and+Tech+Enthusiast;PhD+Physics+Aspirant" 
+         alt="I am Qaisar Abbas  | Science and Tech Enthusiast | PhD Physics Aspirant" />
 </h2>
 
 ## 👦🏽&nbsp;About Me
