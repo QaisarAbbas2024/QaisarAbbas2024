@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning Programming Skills
 - 💞️ I’m looking to collaborate on Python Projects
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Learning languages at Duolingo App with 600 days streak.
+- ⚡ Fun fact: Learning languages at Duolingo App with 700 days streak.
 ## 🤝🏻&nbsp;Connect with Me
 
 <p align="center">
@@ -25,16 +25,17 @@
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=QaisarAbbas2024&show_icons=true&locale=en&layout=demo&theme=merko&hide_border=true" />
 </p>
 
+<h2>Completed International Competitions🥇:</h2>
+<p align="center">
+  <a href="https://www.linkedin.com/feed/update/urn:li:activity:7345784520404561920/">
+    <img src="SL Mentor Badge.png" width="370px" />
+  </a>
+	
+  <a href="https://www.linkedin.com/feed/update/urn:li:activity:7315443978370203650/">
+    <img src="CS50x.jpg" width="300px" />
+  </a>
+</p>
 
-# Completed International Competitions🥇:
-<p float="center">
- <a href="https://www.linkedin.com/feed/update/urn:li:activity:7345784520404561920/">
-     <img src="SL Mentor Badge.png" width="300px" />
-  </a>
-<p float="center">
- <a href="https://www.linkedin.com/feed/update/urn:li:activity:7315443978370203650/">
-     <img src="CS50x.jpg" width="300px" />
-  </a>
 
 ### ✍️ Code Insights
 <h2 align="Center">
