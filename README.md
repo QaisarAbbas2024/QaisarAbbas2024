@@ -27,12 +27,11 @@
 
 
 # Completed International Competitions🥇:
-<p float="left">
+<p float="center">
  <a href="https://www.linkedin.com/feed/update/urn:li:activity:7345784520404561920/">
      <img src="SL Mentor Badge.png" width="300px" />
   </a>
-
-<p float="left">
+<p float="center">
  <a href="https://www.linkedin.com/feed/update/urn:li:activity:7315443978370203650/">
      <img src="CS50x.jpg" width="300px" />
   </a>
