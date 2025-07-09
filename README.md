@@ -25,7 +25,7 @@
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=QaisarAbbas2024&show_icons=true&locale=en&layout=demo&theme=merko&hide_border=true" />
 </p>
 
-<h2>Completed International Competitions🥇:</h2>
+<h2>Completed International Honours🥇:</h2>
 <p align="center">
   <a href="https://www.linkedin.com/feed/update/urn:li:activity:7345784520404561920/">
     <img src="SL Mentor Badge.png" width="370px" />
