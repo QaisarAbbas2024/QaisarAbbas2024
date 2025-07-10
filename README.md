@@ -28,16 +28,16 @@
 <h2>International Competitions🥇:</h2>
 <p align="center">
 
-  <a href="https://www.linkedin.com/feed/update/urn:li:activity:7348778521470590976/">
-    <img src="RAISE YOUR HACK.png" width="630px" />
-  </a>
-  
   <a href="https://www.linkedin.com/feed/update/urn:li:activity:7345784520404561920/">
     <img src="SL Mentor Badge.png" width="370px" />
   </a>
 	
   <a href="https://www.linkedin.com/feed/update/urn:li:activity:7315443978370203650/">
     <img src="CS50x.jpg" width="300px" />
+  </a>
+
+  <a href="https://www.linkedin.com/feed/update/urn:li:activity:7348778521470590976/">
+    <img src="RAISE YOUR HACK.png" width="630px" />
   </a>
 </p>
 
