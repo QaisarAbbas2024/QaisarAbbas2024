@@ -36,9 +36,14 @@
     <img src="CS50x.jpg" width="300px" />
   </a>
 
+  <a href="https://www.linkedin.com/feed/update/urn:li:activity:7349479667965308928/">
+    <img src="700 Day Streak.jfif" width="350px" />
+  </a>
+
   <a href="https://www.linkedin.com/feed/update/urn:li:activity:7348778521470590976/">
     <img src="RAISE YOUR HACK.png" width="630px" />
   </a>
+
 </p>
 
 
