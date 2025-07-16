@@ -36,7 +36,7 @@
     <img src="CS50x.jpg" width="300px" />
   </a>
 
-  <a href="https://www.linkedin.com/feed/update/urn:li:activity:7349479667965308928/">
+  <a href="https://www.linkedin.com/feed/update/urn:li:activity:7350982418113216512/">
     <img src="25100.gif" width="350px" />
   </a>
 
