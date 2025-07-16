@@ -44,7 +44,7 @@
     <img src="700 Day Streak.jfif" width="320px" />
   </a>
 
-  <a href="https://www.linkedin.com/feed/update/urn:li:activity:7348778521470590976/">
+  <a href="https://lablab.ai/u/@QaisarAbbasPK/cmcw1fq1o00ll8m0se7aupk36">
     <img src="RAISE YOUR HACK1.png" width="400px" />
   </a>
 
