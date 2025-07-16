@@ -41,15 +41,15 @@
   </a>
 
   <a href="https://www.linkedin.com/feed/update/urn:li:activity:7349479667965308928/">
-    <img src="700 Day Streak.jfif" width="350px" />
+    <img src="700 Day Streak.jfif" width="320px" />
   </a>
 
   <a href="https://www.linkedin.com/feed/update/urn:li:activity:7348778521470590976/">
-    <img src="RAISE YOUR HACK1.png" width="350px" />
+    <img src="RAISE YOUR HACK1.png" width="400px" />
   </a>
 
   <a href="https://www.linkedin.com/feed/update/urn:li:activity:7348778521470590976/">
-    <img src="RAISE YOUR HACK.png" width="350px" />
+    <img src="RAISE YOUR HACK.png" width="400px" />
   </a>
 
 </p>
