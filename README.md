@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning Programming Skills
 - 💞️ I’m looking to collaborate in Hackathons
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Learning languages at Duolingo App with 700 days streak.
+- ⚡ Fun fact: Duolingo 700+ | LeetCode 111+ days streak
 ## 🤝🏻&nbsp;Connect with Me
 
 <p align="center">
