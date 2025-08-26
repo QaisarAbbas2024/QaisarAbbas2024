@@ -49,7 +49,7 @@
   </a>
 
   <a href="https://lablab.ai/event/co-creating-with-gpt-5/cyber-minds/climateguard">
-    <img src="CLIMATE GUARD.png" width="370px" />
+    <img src="CLIMATE GUARD.png" width="365px" />
   </a>
 
   <a href="https://lablab.ai/u/@QaisarAbbasPK/cmcw1fq1o00ll8m0se7aupk36">
