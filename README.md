@@ -44,11 +44,11 @@
     <img src="700 Day Streak.jfif" width="320px" />
   </a>
 
-  <a href="https://www.linkedin.com/feed/update/urn:li:activity:7365751160110039041/">
+  <a href="https://lablab.ai/u/@QaisarAbbasPK/cmf2ttqyx005p8o0sfhlm6sdq">
     <img src="GPT-5 Hackathon.png" width="430px" />
   </a>
 
-  <a href="https://lablab.ai/event/co-creating-with-gpt-5/cyber-minds/climateguard">
+  <a href="https://www.linkedin.com/feed/update/urn:li:activity:7365751160110039041/">
     <img src="CLIMATE GUARD.png" width="365px" />
   </a>
 
