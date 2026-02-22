@@ -29,19 +29,19 @@
 <p align="center">
 
   <a href="https://www.linkedin.com/feed/update/urn:li:activity:7350982418113216512/">
-    <img src="DCC January 2026.gif" width="350px" />
+    <img src="DCC January 2026.gif" width="150px" />
   </a>
   
   <a href="https://www.linkedin.com/feed/update/urn:li:activity:7350982418113216512/">
-    <img src="50 Days Badge 2026.gif" width="350px" />
+    <img src="50 Days Badge 2026.gif" width="150px" />
   </a>
   
   <a href="https://www.linkedin.com/feed/update/urn:li:activity:7350982418113216512/">
-    <img src="200 Days Badge 2025.gif" width="350px" />
+    <img src="200 Days Badge 2025.gif" width="150px" />
   </a>
   
   <a href="https://www.linkedin.com/feed/update/urn:li:activity:7350982418113216512/">
-    <img src="25100.gif" width="350px" />
+    <img src="25100.gif" width="150px" />
   </a>
   
   <a href="https://www.linkedin.com/feed/update/urn:li:activity:7345784520404561920/">
