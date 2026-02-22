@@ -28,6 +28,14 @@
 <h2>International Competitions🥇:</h2>
 <p align="center">
 
+  <a href="https://www.linkedin.com/feed/update/urn:li:activity:7350982418113216512/">
+    <img src="25100.gif" width="350px" />
+  </a>
+  
+  <a href="https://www.linkedin.com/feed/update/urn:li:activity:7350982418113216512/">
+    <img src="200 Days Badge 2025.gif" width="350px" />
+  </a>
+  
   <a href="https://www.linkedin.com/feed/update/urn:li:activity:7345784520404561920/">
     <img src="SL Mentor Badge.png" width="370px" />
   </a>
