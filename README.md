@@ -28,15 +28,15 @@
 <h2>International Competitions🥇:</h2>
 <p align="center">
 
-  <a href="https://www.linkedin.com/feed/update/urn:li:activity:7350982418113216512/">
+  <a href="https://www.linkedin.com/feed/update/urn:li:activity:7431040868750389248/">
     <img src="DCC January 2026.gif" width="150px" />
   </a>
   
-  <a href="https://www.linkedin.com/feed/update/urn:li:activity:7350982418113216512/">
+  <a href="https://www.linkedin.com/feed/update/urn:li:activity:7431040868750389248/">
     <img src="50 Days Badge 2026.gif" width="150px" />
   </a>
   
-  <a href="https://www.linkedin.com/feed/update/urn:li:activity:7350982418113216512/">
+  <a href="https://www.linkedin.com/feed/update/urn:li:activity:7431040868750389248/">
     <img src="200 Days Badge 2025.gif" width="150px" />
   </a>
   
