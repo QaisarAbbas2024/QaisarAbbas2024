@@ -29,27 +29,27 @@
 <p align="center">
 
   <a href="https://www.linkedin.com/feed/update/urn:li:ugcPost:7447243148508008448/">
-    <img src="LeetCode 365 Day Badge.gif" width="200px" />
+    <img src="LeetCode 365 Day Badge.gif" width="370px" />
   </a>
   
   <a href="https://www.linkedin.com/feed/update/urn:li:activity:7431040868750389248/">
-    <img src="DCC January 2026.gif" width="200px" />
+    <img src="DCC January 2026.gif" width="370px" />
   </a>
   
   <a href="https://www.linkedin.com/feed/update/urn:li:activity:7431040868750389248/">
-    <img src="50 Days Badge 2026.gif" width="200px" />
+    <img src="50 Days Badge 2026.gif" width="370px" />
   </a>
   
   <a href="https://www.linkedin.com/feed/update/urn:li:activity:7431040868750389248/">
-    <img src="200 Days Badge 2025.gif" width="200px" />
+    <img src="200 Days Badge 2025.gif" width="370px" />
   </a>
   
   <a href="https://www.linkedin.com/feed/update/urn:li:activity:7350982418113216512/">
-    <img src="25100.gif" width="200px" />
+    <img src="25100.gif" width="370px" />
   </a>
 
   <a href="https://www.linkedin.com/feed/update/urn:li:activity:7350982418113216512/">
-    <img src="50 Days Badge 2025.gif" width="200px" />
+    <img src="50 Days Badge 2025.gif" width="370px" />
   </a>
   
   <a href="https://www.linkedin.com/feed/update/urn:li:activity:7345784520404561920/">
