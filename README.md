@@ -29,27 +29,27 @@
 <p align="center">
 
   <a href="https://www.linkedin.com/feed/update/urn:li:ugcPost:7447243148508008448/">
-    <img src="LeetCode 365 Day Badge.gif" width="370px" />
+    <img src="LeetCode 365 Day Badge.gif" width="300px" />
   </a>
   
   <a href="https://www.linkedin.com/feed/update/urn:li:activity:7431040868750389248/">
-    <img src="DCC January 2026.gif" width="370px" />
+    <img src="DCC January 2026.gif" width="300px" />
   </a>
   
   <a href="https://www.linkedin.com/feed/update/urn:li:activity:7431040868750389248/">
-    <img src="50 Days Badge 2026.gif" width="370px" />
+    <img src="50 Days Badge 2026.gif" width="300px" />
   </a>
   
   <a href="https://www.linkedin.com/feed/update/urn:li:activity:7431040868750389248/">
-    <img src="200 Days Badge 2025.gif" width="370px" />
+    <img src="200 Days Badge 2025.gif" width="300px" />
   </a>
   
   <a href="https://www.linkedin.com/feed/update/urn:li:activity:7350982418113216512/">
-    <img src="25100.gif" width="370px" />
+    <img src="25100.gif" width="300px" />
   </a>
 
   <a href="https://www.linkedin.com/feed/update/urn:li:activity:7350982418113216512/">
-    <img src="50 Days Badge 2025.gif" width="370px" />
+    <img src="50 Days Badge 2025.gif" width="300px" />
   </a>
   
   <a href="https://www.linkedin.com/feed/update/urn:li:activity:7345784520404561920/">
@@ -60,16 +60,12 @@
     <img src="CS50x.jpg" width="300px" />
   </a>
 
-  <a href="https://www.linkedin.com/feed/update/urn:li:activity:7349479667965308928/">
-    <img src="700 Day Streak.jfif" width="320px" />
-  </a>
-
   <a href="https://lablab.ai/u/@QaisarAbbasPK/cmf2ttqyx005p8o0sfhlm6sdq">
     <img src="GPT-5 Hackathon.png" width="430px" />
   </a>
 
   <a href="https://www.linkedin.com/feed/update/urn:li:activity:7365751160110039041/">
-    <img src="CLIMATE GUARD.png" width="400px" />
+    <img src="CLIMATE GUARD.png" width="360px" />
   </a>
 
   <a href="https://lablab.ai/u/@QaisarAbbasPK/cmcw1fq1o00ll8m0se7aupk36">
@@ -81,9 +77,13 @@
   </a>
  
   <a href="https://lablab.ai/u/@QaisarAbbasPK/cmd60r35z003a8x0sctp6o4cm">
-    <img src="Zero Limit Hackathon.jpg" width="600px" />
+    <img src="Zero Limit Hackathon.jpg" width="450px" />
   </a>
 
+  <a href="https://www.linkedin.com/feed/update/urn:li:activity:7349479667965308928/">
+    <img src="700 Day Streak.jfif" width="255px" />
+  </a>
+  
 </p>
 
 
