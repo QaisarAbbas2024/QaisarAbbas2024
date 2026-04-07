@@ -28,6 +28,10 @@
 <h2>International Competitions🥇:</h2>
 <p align="center">
 
+  <a href="https://www.linkedin.com/feed/update/urn:li:ugcPost:7447243148508008448/">
+    <img src="LeetCode 365 Day Badge.gif" width="400px" />
+  </a>
+  
   <a href="https://www.linkedin.com/feed/update/urn:li:activity:7431040868750389248/">
     <img src="DCC January 2026.gif" width="150px" />
   </a>
