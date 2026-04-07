@@ -76,10 +76,11 @@
     <img src="RAISE YOUR HACK1.png" width="400px" />
   </a>
 
+  <!--
   <a href="https://www.linkedin.com/feed/update/urn:li:activity:7348778521470590976/">
     <img src="RAISE YOUR HACK.png" width="400px" />
   </a>
-
+  -->
   <a href="https://lablab.ai/u/@QaisarAbbasPK/cmd60r35z003a8x0sctp6o4cm">
     <img src="Zero Limit Hackathon.jpg" width="400px" />
   </a>
