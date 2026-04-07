@@ -47,6 +47,10 @@
   <a href="https://www.linkedin.com/feed/update/urn:li:activity:7350982418113216512/">
     <img src="25100.gif" width="200px" />
   </a>
+
+  <a href="https://www.linkedin.com/feed/update/urn:li:activity:7350982418113216512/">
+    <img src="50 Days Badge 2025.gif" width="200px" />
+  </a>
   
   <a href="https://www.linkedin.com/feed/update/urn:li:activity:7345784520404561920/">
     <img src="SL Mentor Badge.png" width="370px" />
@@ -54,10 +58,6 @@
 	
   <a href="https://www.linkedin.com/feed/update/urn:li:activity:7315443978370203650/">
     <img src="CS50x.jpg" width="300px" />
-  </a>
-
-  <a href="https://www.linkedin.com/feed/update/urn:li:activity:7350982418113216512/">
-    <img src="50 Days Badge 2025.gif" width="350px" />
   </a>
 
   <a href="https://www.linkedin.com/feed/update/urn:li:activity:7349479667965308928/">
